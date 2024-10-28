@@ -8,5 +8,4 @@ public class User {
     String login;
     String password;
     String status;
-    String autCode;
 }
